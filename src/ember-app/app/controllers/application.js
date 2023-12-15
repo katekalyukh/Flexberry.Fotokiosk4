@@ -28,31 +28,31 @@ export default Controller.extend({
             link: 'i-i-s-fotokiosk4-клиент-l',
             caption: i18n.t('forms.application.sitemap.fotokiosk4.i-i-s-fotokiosk4-клиент-l.caption'),
             title: i18n.t('forms.application.sitemap.fotokiosk4.i-i-s-fotokiosk4-клиент-l.title'),
-            icon: 'address card',
+            icon: 'briefcase',
             children: null
           }, {
             link: 'i-i-s-fotokiosk4-оплата-l',
             caption: i18n.t('forms.application.sitemap.fotokiosk4.i-i-s-fotokiosk4-оплата-l.caption'),
             title: i18n.t('forms.application.sitemap.fotokiosk4.i-i-s-fotokiosk4-оплата-l.title'),
-            icon: 'paperclip',
+            icon: 'archive',
             children: null
           }, {
             link: 'i-i-s-fotokiosk4-печать-фото-l',
             caption: i18n.t('forms.application.sitemap.fotokiosk4.i-i-s-fotokiosk4-печать-фото-l.caption'),
             title: i18n.t('forms.application.sitemap.fotokiosk4.i-i-s-fotokiosk4-печать-фото-l.title'),
-            icon: 'tasks',
+            icon: 'tags',
             children: null
           }, {
             link: 'отправить-на-почту',
             caption: i18n.t('forms.application.sitemap.fotokiosk4.отправить-на-почту.caption'),
             title: i18n.t('forms.application.sitemap.fotokiosk4.отправить-на-почту.title'),
-            icon: 'folder open',
+            icon: 'file',
             children: null
           }, {
             link: 'i-i-s-fotokiosk4-сделать-фото-l',
             caption: i18n.t('forms.application.sitemap.fotokiosk4.i-i-s-fotokiosk4-сделать-фото-l.caption'),
             title: i18n.t('forms.application.sitemap.fotokiosk4.i-i-s-fotokiosk4-сделать-фото-l.title'),
-            icon: 'folder open',
+            icon: 'building',
             children: null
           }]
         }
